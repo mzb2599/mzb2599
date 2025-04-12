@@ -52,7 +52,7 @@ Currently open to exciting MERN full stack opportunities where I can build scala
 
 ## 🧠 What I’m Working On
 
-- 📊 **SLA Insights Dashboard**  — transforming SLA documents into insights using LLMs, charts, and a chatbot
+- 📊 **Insights Dashboard**  — transforming documents into insights using LLMs and a chatbot
 - 🎯 Preparing for **Full Stack Developer** interviews
 - 👨‍🏫 Mentoring juniors and contributing to tech communities
 
@@ -71,13 +71,13 @@ Currently open to exciting MERN full stack opportunities where I can build scala
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **SLA Insights Dashboard** | Parses SLA docs with LLM → Generates charts → Enables Q&A via chatbot | React, Node.js, OpenAI API, ECharts |
+| **Customer Insights Dashboard** | Create, manage orders and customers data, get order customer insights on the Dashboard | React, Node.js, express.js, mongodb |
 ---
 
 ## 📫 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-zaki-bhojani)
-- 📝 [Resume (Drive Link)](https://your-resume-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mzakibhojani/))
+- 📝 [Resume (Drive Link)][(https://your-resume-link.com)](https://drive.google.com/file/d/1CLjAoWYMFMb_W5BXXzwkazai44FLH65x/view)
 - 🐙 GitHub: [@MohammedZakiBhojani](https://github.com/mzb2599)
 
 ---
