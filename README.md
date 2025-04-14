@@ -61,9 +61,14 @@ Currently open to exciting MERN full stack opportunities where I can build scala
 ## 🏆 Achievements & Certifications
 
 - Generative AI certified
-- Infosys Excellence Award (mention if applicable)
-- Lead role in college tech fest (if relevant)
-- [List more if you’d like to add specifics]
+- Infosys Certified React web developer
+- Infosys certified Javascript developer
+- Infosys certified node developer
+- Infosys certified Python developer
+- Infosys certified python programmer
+- Infosys certified Agile developer
+- Infosys Insta award for impactful project contribution and being flexible for completion of deliverables.
+- Lead role in college tech fest where we had organised a hackathon of 2 days.
 
 ---
 
