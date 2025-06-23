@@ -7,7 +7,7 @@ MERN Stack Developer | Frontend Specialist | Learning Generative AI
 
 ## 👋 About Me
 
-Hi there! I'm Mohammed Zaki, a passionate and driven Full Stack Developer with almost 3 years of experience, specializing in React, and MERN stack. I've contributed to impactful projects in Microsoft enterprise environments and interned with forward-thinking companies where I led initiatives like full stack web application development, performance optimizations. I have also participated in hackathons and build working solutions using Generative AI.
+Hi there! I'm Mohammed Zaki, a passionate and driven Full Stack Developer with 3 years of experience, specializing in React, and MERN stack. I've contributed to impactful projects in Microsoft enterprise environments and interned with forward-thinking companies where I led initiatives like full stack web application development, performance optimizations. I have also participated in hackathons and build working solutions using Generative AI.
 
 Currently open to exciting MERN full stack opportunities where I can build scalable web applications, solve challenging problems, and keep growing technically and professionally.
 
