@@ -31,6 +31,7 @@ Currently open to exciting MERN full stack opportunities where I can build scala
 - Git, GitHub, VS Code, Postman, Chrome DevTools
 - LLM Integrations (chatbot + document parsing)
 - Performance Debugging, Responsive Design, Cross-Browser Compatibility
+- Language proficiency: IELTS: 7.5/9 
 
 ---
 
