@@ -85,6 +85,7 @@ Currently open to exciting MERN full stack opportunities where I can build scala
 - 💼 [LinkedIn](Linkedin_MohammedZakiBhojani)(https://www.linkedin.com/in/mzakibhojani/))
 - 📝 [Resume (Drive Link)][(Resume_MohammedZakiBhojani_FullStackDeveloper)](https://drive.google.com/file/d/1CLjAoWYMFMb_W5BXXzwkazai44FLH65x/view)
 - 🐙 GitHub: [@MohammedZakiBhojani](https://github.com/mzb2599)
+- medium: https://medium.com/@mzaki2599
 
 ---
 
