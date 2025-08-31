@@ -38,7 +38,9 @@ Currently open to exciting MERN full stack opportunities where I can build scala
 ## 💼 Work Experience
 
 ### 🏢 Infosys — *Specialist Programmer*
-1- *Worked on Microsoft enterprise apps — adding features, maintaining React codebase, and integrating visual insights using charting libraries.*
+1- Currently, I am working on a React.js mobile-based application for obe of the FAANG company(via Infosys), where I contribute to developing and enhancing features for a global-scale product. This experience has strengthened my skills in building high-performance applications and collaborating within large, distributed teams.
+
+2- *Worked on Microsoft enterprise apps — adding features, maintaining React codebase, and integrating visual insights using charting libraries.*
 
 2- *Led a cloud migration project for Carefirst USA — migrating Oracle to Azure SQL Server, reducing costs and improving scalability.*
 
