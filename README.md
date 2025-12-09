@@ -8,7 +8,7 @@ MERN Stack Developer | Frontend Specialist | Learning Generative AI
 
 ## 👋 About Me
 
-Hi there! I'm Mohammed Zaki, a passionate and driven Full Stack Developer with 3 years of experience, specializing in React, and MERN stack. I've contributed to impactful projects in Microsoft enterprise environments and interned with forward-thinking companies where I led initiatives like full stack web application development, performance optimizations. I have also participated in hackathons and build working solutions using Generative AI.
+Hi there! I'm Mohammed Zaki, a passionate and driven Full Stack Developer with 3 years 7 months of experience, specializing in React, and MERN stack. I've contributed to impactful projects in Microsoft enterprise environments and interned with forward-thinking companies where I led initiatives like full stack web application development, performance optimizations. I have also participated in hackathons and build working solutions using Generative AI.
 
 Currently open to exciting MERN full stack opportunities where I can build scalable web applications, solve challenging problems, and keep growing technically and professionally.
 
@@ -39,7 +39,7 @@ Currently open to exciting MERN full stack opportunities where I can build scala
 ## 💼 Work Experience
 
 ### 🏢 Infosys — *Specialist Programmer*
-1- Currently, I am working on a React.js mobile-based application for obe of the FAANG company(via Infosys), where I contribute to developing and enhancing features for a global-scale product. This experience has strengthened my skills in building high-performance applications and collaborating within large, distributed teams.
+1- Currently, I am working on WeChat which is a React.js mobile-based application for Apple client (via Infosys), where I contribute to developing and enhancing features for a global-scale product. This experience has strengthened my skills in building high-performance applications and collaborating within large, distributed teams.
 
 2- *Worked on Microsoft enterprise apps — adding features, maintaining React codebase, and integrating visual insights using charting libraries.*
 
@@ -93,4 +93,3 @@ Currently open to exciting MERN full stack opportunities where I can build scala
 ---
 
 ⭐ *Thank you for stopping by my profile! Feel free to reach out if you want to collaborate, hire, or just say hi!*
-
