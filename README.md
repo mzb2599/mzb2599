@@ -1,95 +1,115 @@
-# 👨‍💻 Mohammed Zaki Aliraza Bhojani
+# 👨‍💻 Mohammed Zaki Aliraza Bhojani  
 
-MERN Stack Developer | Frontend Specialist | Learning Generative AI  
+**MERN Stack Developer | Frontend Specialist (React) | Generative AI Enthusiast**  
 📍 Pune, Maharashtra, India  
-📧 mohammedzakibhojani@gmail.com  
----
-
-
-## 👋 About Me
-
-Hi there! I'm Mohammed Zaki, a passionate and driven Full Stack Developer with 3 years 7 months of experience, specializing in React, and MERN stack. I've contributed to impactful projects in Microsoft enterprise environments and interned with forward-thinking companies where I led initiatives like full stack web application development, performance optimizations. I have also participated in hackathons and build working solutions using Generative AI.
-
-Currently open to exciting MERN full stack opportunities where I can build scalable web applications, solve challenging problems, and keep growing technically and professionally.
+📧 **mohammedzakibhojani@gmail.com**
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 👋 About Me  
 
-### 💻 Frontend
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
-- **Libraries/Frameworks**: React.js, Redux, Tailwind CSS, Bootstrap
-- **Charting Libraries**: amCharts, ECharts, Chart.js
+I’m a MERN Stack Developer with 3+ years of professional experience, specializing in React.js, frontend architecture, and scalable web applications. I’ve worked in Microsoft and Apple enterprise environments via Infosys, contributing to production-grade applications used at scale.
 
-### ⚙ Backend
-- Node.js, Express.js, REST APIs, MongoDB, Mongoose
+My experience spans frontend-heavy React applications, backend APIs using Node.js, cloud migration on Microsoft Azure, and data visualization dashboards. Recently, I’ve been actively building LLM-powered applications, including document-based insight dashboards and chatbots.
 
-### ☁ Cloud & DevOps
-- Microsoft Azure (SQL Server, Storage, VMs)
-- Firebase, GitHub Actions, CI/CD basics
-
-### 🔧 Tools & Other Skills
-- Git, GitHub, VS Code, Postman, Chrome DevTools
-- LLM Integrations (chatbot + document parsing)
-- Performance Debugging, Responsive Design, Cross-Browser Compatibility
-- Language proficiency: IELTS: 7.5/9 
+I’m currently open to MERN / Full Stack / Frontend-focused roles where I can solve complex problems, write clean and maintainable code, and deliver real business impact.
 
 ---
 
-## 💼 Work Experience
+## 🚀 Tech Stack & Skills  
 
-### 🏢 Infosys — *Specialist Programmer*
-1- Currently, I am working on WeChat which is a React.js mobile-based application for Apple client (via Infosys), where I contribute to developing and enhancing features for a global-scale product. This experience has strengthened my skills in building high-performance applications and collaborating within large, distributed teams.
+### 💻 Frontend  
+- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS  
+- **Frameworks & Libraries**: React.js, Redux, Tailwind CSS, Bootstrap  
+- **Data Visualization**: amCharts, ECharts, Chart.js  
+- **Expertise**: Component architecture, performance optimization, responsive UI, cross-browser compatibility  
 
-2- *Worked on Microsoft enterprise apps — adding features, maintaining React codebase, and integrating visual insights using charting libraries.*
+### ⚙ Backend  
+- Node.js, Express.js  
+- RESTful APIs  
+- MongoDB, Mongoose  
 
-2- *Led a cloud migration project for Carefirst USA — migrating Oracle to Azure SQL Server, reducing costs and improving scalability.*
+### ☁ Cloud & DevOps  
+- Microsoft Azure (Azure SQL Server, Storage, VMs)  
+- Firebase  
+- CI/CD basics, GitHub Actions  
 
-### ☁ Algorisys Technologies — *Project Intern*
-- Worked on creating a content management system using MERN stack in a year duration of internship
-
-### 🧪 Web Dev Internships
-- **QDS Pro** – Built responsive components for student testing portals
-- **Visual Labs IT** – Developed and deployed website UI with interactive charts
-
----
-
-## 🧠 What I’m Working On
-
-- 📊 **Insights Dashboard**  — transforming documents into insights using LLMs and a chatbot
-- 🎯 Preparing for **Full Stack Developer** interviews
-- 👨‍🏫 Mentoring juniors and contributing to tech communities
-
----
-
-## 🏆 Achievements & Certifications
-
-- Generative AI certified
-- Infosys Certified React web developer
-- Infosys certified Javascript developer
-- Infosys certified node developer
-- Infosys certified Python developer
-- Infosys certified python programmer
-- Infosys certified Agile developer
-- Infosys Insta award for impactful project contribution and being flexible for completion of deliverables.
-- Lead role in college tech fest where we had organised a hackathon of 2 days.
+### 🔧 Tools & Other Skills  
+- Git, GitHub, VS Code, Postman  
+- Chrome DevTools, debugging & profiling  
+- LLM integrations (chatbots, document parsing, insight extraction)  
+- Agile & enterprise development practices  
+- **English Proficiency**: IELTS 7.5 / 9  
 
 ---
 
-## 📌 Projects
+## 💼 Work Experience  
+
+### 🏢 Infosys — *Specialist Programmer*  
+
+- Working on **WeChat**, a React.js mobile-based application for an Apple client, contributing to feature development and enhancements in a large-scale, global product.  
+- Built and maintained enterprise React applications for Microsoft clients, ensuring high performance and long-term maintainability.  
+- Integrated data visualization dashboards using charting libraries to deliver actionable insights.  
+- Led a cloud migration project for **CareFirst USA**, migrating Oracle databases to **Azure SQL Server**, improving scalability and reducing operational costs.  
+- Collaborated with cross-functional teams in distributed, enterprise-grade environments.
+
+---
+
+### ☁ Algorisys Technologies — *Project Intern*  
+
+- Developed a full-stack content management system using the MERN stack during a year-long internship.  
+- Gained hands-on experience in backend APIs, database design, and frontend integration.
+
+---
+
+### 🧪 Web Development Internships  
+
+- **QDS Pro**  
+  - Built responsive UI components for a student testing portal.  
+
+- **Visual Labs IT Ltd**  
+  - Developed and deployed website UI with interactive charts and analytics components.  
+
+---
+
+## 🧠 What I’m Currently Working On  
+
+- LLM-powered insights dashboard transforming documents into actionable intelligence  
+- Preparing for Full Stack / MERN developer interviews  
+- Mentoring juniors and contributing to developer communities  
+
+---
+
+## 🏆 Achievements & Certifications  
+
+- Generative AI Certified  
+- Infosys Certified React Web Developer  
+- Infosys Certified JavaScript Developer  
+- Infosys Certified Node.js Developer  
+- Infosys Certified Python Developer  
+- Infosys Certified Python Programmer  
+- Infosys Certified Agile Developer  
+- Infosys Insta Award for impactful project contribution and delivery flexibility  
+- Lead organizer for a 2-day college hackathon  
+
+---
+
+## 📌 Projects  
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Customer Insights Dashboard** | Create, manage orders and customers data, get order customer insights on the Dashboard | React, Node.js, express.js, mongodb |
----
-
-## 📫 Let’s Connect!
-
-- 💼 [LinkedIn](Linkedin_MohammedZakiBhojani)(https://www.linkedin.com/in/mzakibhojani/))
-- 📝 [Resume (Drive Link)][(Resume_MohammedZakiBhojani_FullStackDeveloper)](https://drive.google.com/file/d/1iEd-YKx3W-hKAKXsOjIoi5Bm9D0718ry/view?usp=sharing)
-- 🐙 GitHub: [@MohammedZakiBhojani](https://github.com/mzb2599)
-- medium: https://medium.com/@mzaki2599
+| **Customer Insights Dashboard** | Manage customers and orders and derive actionable business insights | React, Node.js, Express.js, MongoDB |
+| **LLM Document Analyzer** | Extract insights from documents with chatbot-based Q&A | React, Node.js, LLM APIs |
 
 ---
 
-⭐ *Thank you for stopping by my profile! Feel free to reach out if you want to collaborate, hire, or just say hi!*
+## 📫 Let’s Connect  
+
+- **LinkedIn**: https://www.linkedin.com/in/mzakibhojani/  
+- **Resume**: https://drive.google.com/file/d/1iEd-YKx3W-hKAKXsOjIoi5Bm9D0718ry/view  
+- **GitHub**: https://github.com/mzb2599  
+- **Medium**: https://medium.com/@mzaki2599  
+
+---
+
+⭐ Thank you for visiting my profile. Feel free to reach out for collaboration, opportunities, or discussions.
