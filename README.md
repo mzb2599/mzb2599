@@ -8,7 +8,7 @@
 
 ## 👋 About Me  
 
-I’m a MERN Stack Developer with 3+ years of professional experience, specializing in React.js, frontend architecture, and scalable web applications. I’ve worked in Microsoft and Apple enterprise environments via Infosys, contributing to production-grade applications used at scale.
+I’m a MERN Stack Developer with 4+ years of professional experience, specializing in React.js, frontend architecture, and scalable web applications. I’ve worked in Microsoft and Apple enterprise environments via Infosys, contributing to production-grade applications used at scale.
 
 My experience spans frontend-heavy React applications, backend APIs using Node.js, cloud migration on Microsoft Azure, and data visualization dashboards. Recently, I’ve been actively building LLM-powered applications, including document-based insight dashboards and chatbots.
 
@@ -47,7 +47,7 @@ I’m currently open to MERN / Full Stack / Frontend-focused roles where I can s
 
 ### 🏢 Infosys — *Specialist Programmer*  
 
-- Working on **WeChat**, a React.js mobile-based application for an Apple client, contributing to feature development and enhancements in a large-scale, global product.  
+- Working on **WeChat**, a React.js mobile-based application for Apple client, contributing to feature development and enhancements in a large-scale, global product.  
 - Built and maintained enterprise React applications for Microsoft clients, ensuring high performance and long-term maintainability.  
 - Integrated data visualization dashboards using charting libraries to deliver actionable insights.  
 - Led a cloud migration project for **CareFirst USA**, migrating Oracle databases to **Azure SQL Server**, improving scalability and reducing operational costs.  
