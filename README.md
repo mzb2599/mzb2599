@@ -1,115 +1,92 @@
-# 👨‍💻 Mohammed Zaki Aliraza Bhojani  
+<h1 align="center">Mohammed Zaki Bhojani</h1>
+<h3 align="center">Full Stack Developer · React Specialist · Generative AI Builder</h3>
 
-**MERN Stack Developer | Frontend Specialist (React) | Generative AI Enthusiast**  
-📍 Pune, Maharashtra, India  
-📧 **mohammedzakibhojani@gmail.com**
-
----
-
-## 👋 About Me  
-
-I’m a MERN Stack Developer with 4+ years of professional experience, specializing in React.js, frontend architecture, and scalable web applications. I’ve worked in Microsoft and Apple enterprise environments via Infosys, contributing to production-grade applications used at scale.
-
-My experience spans frontend-heavy React applications, backend APIs using Node.js, cloud migration on Microsoft Azure, and data visualization dashboards. Recently, I’ve been actively building LLM-powered applications, including document-based insight dashboards and chatbots.
-
-I’m currently open to MERN / Full Stack / Frontend-focused roles where I can solve complex problems, write clean and maintainable code, and deliver real business impact.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mzakibhojani/">LinkedIn</a> ·
+  <a href="https://github.com/mzb2599">GitHub</a> ·
+  <a href="https://medium.com/@mzaki2599">Medium</a> ·
+  <a href="mailto:mohammedzakibhojani@gmail.com">Email</a> ·
+  <a href="https://drive.google.com/file/d/1iEd-YKx3W-hKAKXsOjIoi5Bm9D0718ry/view">Resume</a>
+</p>
 
 ---
 
-## 🚀 Tech Stack & Skills  
+## About
 
-### 💻 Frontend  
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS  
-- **Frameworks & Libraries**: React.js, Redux, Tailwind CSS, Bootstrap  
-- **Data Visualization**: amCharts, ECharts, Chart.js  
-- **Expertise**: Component architecture, performance optimization, responsive UI, cross-browser compatibility  
+MERN Stack Developer with **4+ years** of enterprise experience building production-grade React applications for **Apple** and **Microsoft** clients via Infosys. I specialize in frontend architecture, data-intensive dashboards, and LLM-powered tooling. My work runs at global scale — I've contributed to **WeChat** (Apple), built cloud migration pipelines for **CareFirst USA** (Oracle → Azure SQL), and built full-stack MERN systems end-to-end.
 
-### ⚙ Backend  
-- Node.js, Express.js  
-- RESTful APIs  
-- MongoDB, Mongoose  
+Currently building LLM-powered insight dashboards and exploring Generative AI applications in the enterprise context.
 
-### ☁ Cloud & DevOps  
-- Microsoft Azure (Azure SQL Server, Storage, VMs)  
-- Firebase  
-- CI/CD basics, GitHub Actions  
-
-### 🔧 Tools & Other Skills  
-- Git, GitHub, VS Code, Postman  
-- Chrome DevTools, debugging & profiling  
-- LLM integrations (chatbots, document parsing, insight extraction)  
-- Agile & enterprise development practices  
-- **English Proficiency**: IELTS 7.5 / 9  
+**Open to:** Full Stack · MERN · Frontend-focused roles
 
 ---
 
-## 💼 Work Experience  
+## Tech Stack
 
-### 🏢 Infosys — *Specialist Programmer*  
+**Frontend**
+`React.js` `TypeScript` `JavaScript (ES6+)` `Redux` `Tailwind CSS` `SCSS` `HTML5`
+`amCharts` `ECharts` `Chart.js`
 
-- Working on **WeChat**, a React.js mobile-based application for Apple client, contributing to feature development and enhancements in a large-scale, global product.  
-- Built and maintained enterprise React applications for Microsoft clients, ensuring high performance and long-term maintainability.  
-- Integrated data visualization dashboards using charting libraries to deliver actionable insights.  
-- Led a cloud migration project for **CareFirst USA**, migrating Oracle databases to **Azure SQL Server**, improving scalability and reducing operational costs.  
-- Collaborated with cross-functional teams in distributed, enterprise-grade environments.
+**Backend**
+`Node.js` `Express.js` `RESTful APIs` `MongoDB` `Mongoose`
 
----
+**Cloud & DevOps**
+`Microsoft Azure` `Azure SQL Server` `Firebase` `GitHub Actions` `CI/CD`
 
-### ☁ Algorisys Technologies — *Project Intern*  
-
-- Developed a full-stack content management system using the MERN stack during a year-long internship.  
-- Gained hands-on experience in backend APIs, database design, and frontend integration.
-
----
-
-### 🧪 Web Development Internships  
-
-- **QDS Pro**  
-  - Built responsive UI components for a student testing portal.  
-
-- **Visual Labs IT Ltd**  
-  - Developed and deployed website UI with interactive charts and analytics components.  
+**AI & Tooling**
+`LLM API Integration` `Document Parsing` `Chatbot Development`
+`Git` `Postman` `VS Code` `Chrome DevTools`
 
 ---
 
-## 🧠 What I’m Currently Working On  
+## Experience
 
-- LLM-powered insights dashboard transforming documents into actionable intelligence  
-- Preparing for Full Stack / MERN developer interviews  
-- Mentoring juniors and contributing to developer communities  
+**Infosys — Specialist Programmer** *(Current)*
+- Contributed to feature development on **WeChat** (React.js mobile app) for Apple — a globally used, large-scale product
+- Built and maintained enterprise React applications for Microsoft clients, focused on performance and long-term maintainability
+- Led cloud migration project for **CareFirst USA**: Oracle → Azure SQL Server, improving scalability and reducing operational costs
+- Built data visualization dashboards using amCharts/ECharts for actionable business intelligence
 
----
+**Algorisys Technologies — Project Intern** *(1 year)*
+- Developed a full-stack CMS using the MERN stack — backend APIs, MongoDB schema design, and React frontend
 
-## 🏆 Achievements & Certifications  
-
-- Generative AI Certified  
-- Infosys Certified React Web Developer  
-- Infosys Certified JavaScript Developer  
-- Infosys Certified Node.js Developer  
-- Infosys Certified Python Developer  
-- Infosys Certified Python Programmer  
-- Infosys Certified Agile Developer  
-- Infosys Insta Award for impactful project contribution and delivery flexibility  
-- Lead organizer for a 2-day college hackathon  
+**QDS Pro · Visual Labs IT Ltd — Web Dev Internships**
+- Built responsive UI components for a student testing portal (QDS Pro)
+- Developed and deployed analytics-heavy website UI (Visual Labs)
 
 ---
 
-## 📌 Projects  
+## Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Customer Insights Dashboard** | Manage customers and orders and derive actionable business insights | React, Node.js, Express.js, MongoDB |
-| **LLM Document Analyzer** | Extract insights from documents with chatbot-based Q&A | React, Node.js, LLM APIs |
+**[Customer Insights Dashboard](https://github.com/mzb2599)**
+Full-stack MERN app for managing customers and orders with business insight reports.
+`React` `Node.js` `Express.js` `MongoDB`
 
----
-
-## 📫 Let’s Connect  
-
-- **LinkedIn**: https://www.linkedin.com/in/mzakibhojani/  
-- **Resume**: https://drive.google.com/file/d/1iEd-YKx3W-hKAKXsOjIoi5Bm9D0718ry/view  
-- **GitHub**: https://github.com/mzb2599  
-- **Medium**: https://medium.com/@mzaki2599  
+**[LLM Document Analyzer](https://github.com/mzb2599)**
+Upload documents and extract structured insights via chatbot Q&A interface — powered by LLM APIs.
+`React` `Node.js` `LLM APIs`
 
 ---
 
-⭐ Thank you for visiting my profile. Feel free to reach out for collaboration, opportunities, or discussions.
+## Certifications
+
+- Generative AI Certified
+- Infosys Certified React Web Developer
+- Infosys Certified JavaScript Developer
+- Infosys Certified Node.js Developer
+- Infosys Certified Python Developer & Programmer
+- Infosys Certified Agile Developer
+- **Infosys Insta Award** — for impactful project contribution and delivery flexibility
+- **IELTS 7.5 / 9** — strong written and verbal communication
+
+---
+
+## Currently Working On
+
+- LLM-powered insight dashboard that transforms documents into actionable intelligence
+- Preparing for Full Stack / MERN developer interviews
+- Mentoring junior developers and writing on [Medium](https://medium.com/@mzaki2599)
+
+---
+
+<p align="center">📍 Pune, Maharashtra, India · 📧 mohammedzakibhojani@gmail.com</p>
