@@ -58,11 +58,11 @@ Currently building LLM-powered insight dashboards and exploring Generative AI ap
 
 ## Projects
 
-**[Customer Insights Dashboard](https://github.com/mzb2599)**
+**[Customer Insights Dashboard](https://github.com/mzb2599/5s-Auto)**
 Full-stack MERN app for managing customers and orders with business insight reports.
 `React` `Node.js` `Express.js` `MongoDB`
 
-**[LLM Document Analyzer](https://github.com/mzb2599)**
+**[LLM Document Analyzer]**
 Upload documents and extract structured insights via chatbot Q&A interface — powered by LLM APIs.
 `React` `Node.js` `LLM APIs`
 
